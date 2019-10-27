@@ -3,7 +3,18 @@ body {
     width: 70%;
    
 }
+#banner
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
 
+#banner img
+{
+    width: 59px;
+    height: 60px;
+}
 p.serif { 
 	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
     font-size: 18px;
