@@ -5,9 +5,11 @@ body {
 }
 
 #banner {
-    background: url"./img/RefugeesWalpaper.jpeg" >;
+    background: url"../img/RefugeesWalpaper.jpeg" >;
     width:100%;
     min-height:189px;
+	margin: 0; 
+    padding: 0;
 }
 
 
