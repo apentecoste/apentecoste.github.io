@@ -4,18 +4,12 @@ body {
    
 }
 
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
+#banner {
+    background:url('http://sweetclipart.com/multisite/sweetclipart/files/imagecache/middle/banner_white.png');
+    width:100%;
+    min-height:189px;
 }
 
-.TitleImage {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 
 
 
