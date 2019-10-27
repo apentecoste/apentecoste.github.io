@@ -68,5 +68,7 @@ head {
 
 img {
 	position: absolute;
+	top: 1px;
 	left: 3px;
+	margin-bottom: 50px;
 }
