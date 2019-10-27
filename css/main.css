@@ -67,5 +67,6 @@ head {
 }
 
 img {
+	position: absolute;
 	left: 0px;
 }
