@@ -65,3 +65,7 @@ head {
      width:100%;
      background-image:url("./download.jpg");
 }
+
+img {
+	left: 150px;
+}
