@@ -2,6 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+head {
+    margin: 20px auto;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -41,9 +46,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-img {
-  display: block;
-  margin-left: ;
-  margin-right: auto;
-  width: 50%;
-}
+
