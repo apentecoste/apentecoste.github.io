@@ -42,6 +42,8 @@ ul.posts li {
     list-style: none;
 }
 img {
-  max-width: 100%;
-  height: auto;
+  display: block;
+  margin-left: ;
+  margin-right: auto;
+  width: 50%;
 }
