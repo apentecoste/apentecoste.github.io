@@ -1,4 +1,6 @@
 body {
+	position: absolute;
+	top: 300px;
     margin: 60px auto;
     width: 70%;
    
@@ -6,8 +8,8 @@ body {
 
 #banner {
   position: absolute;
-  left: 10px;
-  top: 10px;
+  left: 0px;
+  top: 0px;
 }
 
 
